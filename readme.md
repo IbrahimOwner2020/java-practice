@@ -24,7 +24,7 @@ The project is organized into different directories and components:
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/learning-java.git`
+1. Clone the repository: `git clone https://github.com/IbrahimOwner2020/java-practice`
 2. Explore the different directories and files within the project.
 3. Review the exercises and projects to understand the concepts and implementations.
 4. Run the code and experiment with modifications to deepen understanding.
