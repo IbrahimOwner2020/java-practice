@@ -9,5 +9,9 @@ public class Person {
         Person mySelf = new Person();
         System.out.println("Names:" + mySelf.firstName + " " + mySelf.lastName);
         System.out.println("Age:" + mySelf.age);
+
+        Car myCar = new Car();
+        myCar.fullThrottle();
+        myCar.speed(240);
     }
 }
